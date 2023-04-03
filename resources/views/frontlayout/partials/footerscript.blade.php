@@ -1,0 +1,1 @@
+<script src="{{url('assets/js/ajax-call.js')}}"></script>
